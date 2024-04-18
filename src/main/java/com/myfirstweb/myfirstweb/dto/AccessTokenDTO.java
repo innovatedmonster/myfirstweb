@@ -1,5 +1,5 @@
 package com.myfirstweb.myfirstweb.dto;
-
+//(dto)Data Transfer Object
 public class AccessTokenDTO {
     private String client_id;
     private String client_secret;
